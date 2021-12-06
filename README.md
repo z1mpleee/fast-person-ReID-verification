@@ -1,5 +1,7 @@
 # fast-person-ReID-verification base on [fast-reid](https://github.com/JDAI-CV/fast-reid)
 
+The purpose of this project is to accelerate the speed of ReID verification and integrate the re-ranking code
+
 ## Compile with cython to accelerate evalution
     $ git clone https://github.com/z1mpleee/fast-person-ReID-verification rank_cylib
     $ cd rank_cylib
