@@ -12,4 +12,4 @@ The purpose of this project is to accelerate the speed of ReID verification and 
 
     cmc, mAP, _ = evaluate_rank(qf, gf, lqf, lgf, q_pids, g_pids, q_camids, g_camids, aligned=aligned, reranking=True, use_cython=True)
 
-## thanks to [fast-reid](https://github.com/JDAI-CV/fast-reid)
+## thanks to [fast-reid](https://github.com/JDAI-CV/fast-reid) [person-re-ranking](https://github.com/zhunzhong07/person-re-ranking)
